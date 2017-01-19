@@ -4,7 +4,7 @@
 #
 Name     : jdk-paranamer
 Version  : cb6709646eed97c271d73f50ad750cc43c8e052a
-Release  : 1
+Release  : 2
 URL      : https://github.com/paul-hammant/paranamer/archive/cb6709646eed97c271d73f50ad750cc43c8e052a/paranamer-cb6709646eed97c271d73f50ad750cc43c8e052a.tar.gz
 Source0  : https://github.com/paul-hammant/paranamer/archive/cb6709646eed97c271d73f50ad750cc43c8e052a/paranamer-cb6709646eed97c271d73f50ad750cc43c8e052a.tar.gz
 Summary  : No detailed summary available
@@ -91,14 +91,13 @@ BuildRequires : jdk-plexus-velocity
 BuildRequires : jdk-qdox
 BuildRequires : jdk-sisu
 BuildRequires : jdk-slf4j
-BuildRequires : jdk-snappy
+BuildRequires : jdk-snappy-java
 BuildRequires : jdk-sonatype-oss-parent
 BuildRequires : jdk-surefire
 BuildRequires : jdk-velocity
 BuildRequires : jdk-wagon
 BuildRequires : jdk-xbean
 BuildRequires : jdk-xmlunit
-BuildRequires : jdk-xz
 BuildRequires : lxml
 BuildRequires : openjdk-dev
 BuildRequires : python3
